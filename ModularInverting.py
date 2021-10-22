@@ -1,2 +1,2 @@
 from Crypto.Util.number import inverse
-inverse(3, 13)
+print(inverse(3, 13))
